@@ -1,0 +1,27 @@
+event:
+  name: "Amigo Airsho 2026"
+  location: "Biggs Army Airfield, Fort Bliss, TX"
+  dates:
+    day_1: "2026-10-24"
+    day_2: "2026-10-25"
+  expected_attendance: 100000
+  total_volunteer_target: 500
+
+onboarding_meetings:
+  tier_1_primary:
+    datetime: "2026-10-08T17:30:00-06:00"
+    venue: "The Elmont Event Center"
+    rsvp_need_id: 1224661
+  tier_2_makeup:
+    datetime: "2026-10-12T16:30:00-06:00"
+    venue: "Podium Finish"
+  tier_3_social:
+    datetime: "2026-10-19T16:00:00-06:00"
+    venue: "Wyndham El Paso Airport"
+
+policies:
+  us_citizenship_required: false
+  electronic_waiver_mandatory: true
+  split_shifts_permitted: true
+  micro_quotas:
+    icas_survey_team: 4
