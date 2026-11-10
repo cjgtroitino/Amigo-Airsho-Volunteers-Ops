@@ -56,12 +56,12 @@ Field execution required integrating digital rosters with physical access-contro
 ### 1. Workforce Staging & Flightline Operations
 Deployed 500+ credentialed, waiver-compliant volunteers supporting live-fire armor demonstrations, static ramps, and active flightline buffers at Biggs Army Airfield.
 
-![Amigo Airsho Volunteer Field Deployment](assets/volunteer_team_field.jpg)
+![Amigo Airsho Volunteer Field Deployment](assets/volunteer_team_field.png)
 
 ### 2. Operational Flightline Scale (~100,000 Spectators)
 Perimeter control and crossing guard teams maintained continuous crowd safety buffers during high-speed performance windows for the U.S. Navy Blue Angels, USAF F-22 Raptor, and U.S. Army Golden Knights.
 
-![Flightline Crowd Scale](assets/flightline_crowd.jpg)
+![Flightline Crowd Scale](assets/flightline_crowd.png)
 
 ### 3. Logged Performance Metrics & Role Distribution
 Verified impact reporting presented to the Amigo Airsho Board of Directors, logging 2,109 operational hours across 237 approved shift records.
