@@ -6,14 +6,19 @@ This project bridges systems engineering and live aviation operations, detailing
 
 ---
 
-## 📊 Quantifiable Mission Impact
-* **Event Scale:** ~100,000 spectators across a 2-day live-fire and aerial demonstration schedule.
-* **Workforce Deployed:** **500+** waiver-compliant, credentialed volunteers deployed across Flightline Ops, ICAS Survey, Static Displays, and Ticketing.
-* **Hours Logged:** Volunteers delivered **over 2,109 recorded hours** across **237 approved shift records**, averaging 11.6 hours contributed per volunteer. 
-* **Critical Coverage:** Crossing Guards and Gate Check-In volunteers carried significant portions of the workload, ensuring safe pedestrian flow amidst a crowd of 100,000 attendees.
-* **Partner Group Impact:** Nearly 50% of the total volunteer hours were supplied by strategic partner groups (e.g., SOAC, El Dorado HS Orchestra, Aztec Robotics), proving the efficacy of the automated organizational outreach engine.
-* **Automation Gains:** 95% reduction in outreach latency, complete elimination of paper waiver liability (0.0% failure rate), and a 77% reduction in scheduling attrition via a 3-tier routing engine.
-* **Safety & Security:** Zero security gate rejections and 100% compliant execution of Fort Bliss Base Pass and Flightline Driver operations.
+## 📊 Quantifiable Mission Impact & Operational Headcount
+
+* **Event Scale:** ~100,000 spectators across a 2-day live-fire and aerial demonstration schedule at Biggs Army Airfield.
+* **Estimated Ground Deployment:** **500+ total field volunteers** deployed across 31 operational roles, including high-density crossing guards, flightline crowd separation, and static ramp security.
+* **Digitally Verified Telemetry:**
+  * **2,108.7 logged hours** across **237 approved shift records** captured through the digital volunteer portal.
+  * **182 uniquely audited volunteers** averaging 11.6 hours each.
+  * **Peak Staffing:** Saturday, Oct 24 alone accounted for 1,321.7 hours (62.7% of total weekend hours).
+* **Field Telemetry vs. Ground Reality (Systems Analysis):**
+  * While digital terminals audited 182 core volunteers, peak morning gate throughput and remote airfield staging necessitated secondary physical dispatch (high-vis vests and zone wristbands) for an estimated ~300+ additional partner and student volunteers.
+  * *Operational Lesson Learned:* Scaled mobile scanner density and distributed check-in pods are scheduled for deployment in the 2027 season to eliminate check-in bottlenecks.
+* **Partner Group Impact:** 49.3% of all recorded hours (1,038.6 hours) came from structured partner organizations (e.g., SOAC, El Dorado HS Orchestra, EDHS Aztec Robotics), verifying the conversion efficiency of the automated outreach pipeline.
+* **Compliance & Safety:** 100% digital liability waiver completion prior to airfield entry, zero security gate turnaways at Fort Bliss access control points, and zero runway safety incursions during Blue Angels and F-22 demonstration freezes.
 
 ---
 
